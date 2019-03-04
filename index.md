@@ -17,7 +17,6 @@ overview: true
       <p>
         秒到的比特币交易
       </p>
-      <a href="/docs/usage/">使用 Jekyll &rarr;</a>
     </div>
     <div class="unit one-third">
       <h2>低手续费</h2>
