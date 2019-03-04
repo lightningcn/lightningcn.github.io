@@ -57,11 +57,8 @@ overview: true
     <div class="unit whole">
       <div class="grid pane">
         <div class="unit whole center-on-mobiles">
-          <img src="img/octojekyll.png" width="300" height="251" alt="Free Jekyll hosting on GitHub Pages">
           <div class="pane-content">
-            <h2 class="center-on-mobiles">使用 GitHub 的<strong>免费主机</strong></h2>
-            <p>不想再与主机服务商打交道？<a href="http://pages.github.com/">GitHub Pages</a> <em>基于 Jekyll 构建</em>，你可以轻而易举地在 GitHub 上免费发布网站——<a href="https://help.github.com/articles/about-supported-custom-domains/">自定义域名</a>等等。</p>
-            <a href="http://pages.github.com/">进一步了解 GitHub Pages &rarr;</a>
+            <a href="http://docs.lightningcn.com/">进一步了解 闪电网络⚡️&rarr;</a>
           </div>
         </div>
         <div class="clear"></div>
