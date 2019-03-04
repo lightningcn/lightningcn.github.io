@@ -1,15 +1,12 @@
-- title: Home
+- title: 主页
   link: /
   show_on_mobile: true
-- title: Docs
-  link: /docs/
+- title: 文档
+  link: https://docs.lightningcn.com
   show_on_mobile: true
-- title: Resources
+- title:  资源列表
   link: /resources/
   show_on_mobile: true
-- title: Showcase
+- title: 闪电应用
   link: /showcase/
-  show_on_mobile: false
-- title: News
-  link: /news/
   show_on_mobile: true
