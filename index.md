@@ -19,13 +19,15 @@ overview: true
       </p>
     </div>
     <div class="unit one-third">
-      <h2>低手续费</h2>
-        极低手续费的交易
+      <h2>极低的手续费</h2>
+      <p>
+        低到零的手续费
+      </p>
     </div>
     <div class="unit one-third">
       <h2>无需可信第三方</h2>
       <p>
-        无需第三方
+		交易双方不需要信任第三方即可进行
       </p>
     </div>
     <div class="clear"></div>
