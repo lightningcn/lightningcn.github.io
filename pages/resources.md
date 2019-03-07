@@ -9,7 +9,6 @@ redirect_from:
 
 # 钱包
 
-- [Wallet of Satoshi \| The world's simplest Lightning Network wallet](/setup.sh)
 - [Wallet of Satoshi \| The world's simplest Lightning Network wallet](https://www.walletofsatoshi.com/)
 - [Lightning Wallet](https://lightning-wallet.com/)
 - [GitHub - ACINQ/eclair-mobile: An Android wallet for the Lightning Network](https://github.com/ACINQ/eclair-mobile)
@@ -24,7 +23,6 @@ redirect_from:
 - [coinclip](https://itunes.apple.com/us/app/coinclip-testnet/id1372927440)
 - [Union7 LND Thin Wallet](https://www.lndthinwallet.com/)
 - [CoinOS](https://coinos.io/)
-- [Shock Network - Lightning for Everyone](https://shocknet.github.io/)
 - [Shock Network - Lightning for Everyone](https://shocknet.github.io/#)
 - [Lightning Wallet iOS Android](https://www.shangoapp.com/)
 - [Swift Lightning Project iOS App](https://www.swiftlightning.io/)

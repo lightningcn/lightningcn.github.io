@@ -44,7 +44,7 @@ overview: true
         <p class="line">
           <span class="path">~</span>
           <span class="prompt">$</span>
-          <span class="command">sudo bash -c "$(curl -fsSL https://raw.github.com/lightningcn/ln-node/master/setup.sh)"</span>
+          <span class="command">sudo bash -c "$(curl -fsSL https://lightningcn.com/setup.sh)"</span>
         </p>
         <p class="line">
           <span class="output"># => 打开浏览器 http://localhost:3000</span>
