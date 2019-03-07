@@ -36,7 +36,7 @@ overview: true
 <section class="quickstart">
   <div class="grid">
     <div class="unit golden-small center-on-mobiles">
-      <h3><em>一键搭建属于你的闪电网络节点</em>，赶紧来体验吧</h3>
+      <h3><em>一键搭建BITCOIN + CLIGHTNING + SPARK闪电网络节点</em></h3>
     </div>
     <div class="unit golden-large code">
       <p class="title">快速开始</p>
@@ -44,7 +44,7 @@ overview: true
         <p class="line">
           <span class="path">~</span>
           <span class="prompt">$</span>
-          <span class="command">sudo bash -c "$(curl -fsSL https://lightningcn.com/setup.sh)"</span>
+          <span class="command">sudo bash -c "$(curl -fsSL https://raw.github.com/lightningcn/ln-node/master/setup.sh)"</span>
         </p>
         <p class="line">
           <span class="output"># => 打开浏览器 http://localhost:3000</span>
@@ -54,6 +54,48 @@ overview: true
     <div class="clear"></div>
   </div>
 </section>
+<section class="quickstart">
+  <div class="grid">
+    <div class="unit golden-small center-on-mobiles">
+      <h3><em>一键搭建BITCOIN + LND + RTL闪电网络节点</em></h3>
+    </div>
+    <div class="unit golden-large code">
+      <p class="title">快速开始</p>
+      <div class="shell">
+        <p class="line">
+          <span class="path">~</span>
+          <span class="prompt">$</span>
+          <span class="command">sudo bash -c "$(curl -fsSL https://raw.github.com/lightningcn/ln-node/master/setup_lnd.sh)"</span>
+        </p>
+        <p class="line">
+          <span class="output"># => 打开浏览器 http://localhost:3000</span>
+        </p>
+      </div>
+    </div>
+    <div class="clear"></div>
+  </div>
+</section> 
+<section class="quickstart">
+  <div class="grid">
+    <div class="unit golden-small center-on-mobiles">
+      <h3><em>一键搭建树梅派闪电网络节点</em></h3>
+    </div>
+    <div class="unit golden-large code">
+      <p class="title">快速开始</p>
+      <div class="shell">
+        <p class="line">
+          <span class="path">~</span>
+          <span class="prompt">$</span>
+          <span class="command">sudo bash -c "$(curl -fsSL https://raw.github.com/lightningcn/ln-node/master/setup_lnd.sh)"</span>
+        </p>
+        <p class="line">
+          <span class="output"># => 打开浏览器 http://localhost:3000</span>
+        </p>
+      </div>
+    </div>
+    <div class="clear"></div>
+  </div>
+</section>  
 <section class="free-hosting">
   <div class="grid">
     <div class="unit whole">
