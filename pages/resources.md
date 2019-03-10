@@ -15,7 +15,6 @@ redirect_from:
 - [BlueWallet - Bitcoin and Lightning wallet for iOS and Android](https://bluewallet.io/)
 - [Breez - Lightning Fast Bitcoin Payments](https://breez.technology/)
 - [GitHub - breez/breezmobile: Lightning Network mobile client](https://github.com/breez/breezmobile)
-- [Bitlum - Online Bitcoin browser wallet](https://bitlum.io/?utm_source=lightningnetworkstores.com&utm_medium=referral&utm_campaign=referral-19-feb-campaign&referral=lightningnetworkstores.com)
 - [Bitlum - Online Bitcoin browser wallet](https://bitlum.io/)
 - [LNWALLET.IO - The first ever Bitcoin Lightning Network online wallet with an API for merchants](https://lnwallet.io/)
 - [Denryu by HashHub](https://denryu.hashhub.tokyo/)
@@ -32,6 +31,10 @@ redirect_from:
 - [LightningPeach](https://lightningpeach.com/peach-wallet)
 - [OpenNode](https://app.opennode.co/login)
 - [Lightning wallets](https://lightningnetworkstores.com/wallets)
+- [lnwallet.io](https://lnwallet.io)
+- [pebble](https://www.pebble.indiesquare.me/)
+- [https://github.com/lightninglabs/lightning-app](https://github.com/lightninglabs/lightning-app)
+
 
 # 工具
 
@@ -39,6 +42,8 @@ redirect_from:
 - [1ML - Lightning Network Search and Analysis Engine - mainnet](https://1ml.com/)
 - [Mainnet Lightning Network Stores](https://lightningnetworkstores.com/)
 - [nayutaco/lightning-dissector: WIP: A wireshark plugin to analyze communication between lightning network nodes](https://github.com/nayutaco/lightning-dissector)
+- [https://light.yuyaogawa.com/faucet/](https://light.yuyaogawa.com/faucet/)
+
 
 # 开发api
 
